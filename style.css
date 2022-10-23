@@ -1,0 +1,42 @@
+
+  .consulta{
+   text-align: center;
+  }
+
+  .tittle{
+    text-align: center;
+  }
+
+  body{
+    background-color:rgb(233, 223, 223);
+    
+    margin: 0;
+ 
+  }
+
+  .navBar{
+    background-color: rgb(44, 204, 65);
+    position: relative;
+    width: 100%;
+    height: 15vh;
+  }
+
+  .logo{
+    position: absolute;
+    color: white;
+    font-size: 20px;
+    top: 10%;
+    left: 3%;
+  }
+
+  .divsCuentas{
+    background-color: rgb(44, 204, 65);
+    border-radius: 10px;
+    margin: 5px;
+    text-align: center;
+  }
+
+  .contenedor{
+    display: flex;
+    flex-direction: row;
+  }
